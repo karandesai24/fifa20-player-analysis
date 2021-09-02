@@ -4,7 +4,7 @@
 
 
 Explorations Achieved using the data.
-
+𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐝 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚.
 
 Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
 
