@@ -1,8 +1,10 @@
-About
+ About
 
-The data was scrapped from the KOGGLE website using a python.Dataset that has been used for this analysis provides statistics of about 16000 players on over 70 different attributes. These attributes are optimal indicators to determine the performance of a player at a particular playing position.
+   The data was scrapped from the KOGGLE website using a python.Dataset that has been used for this analysis provides statistics of about 16000 players on over 70 different attributes. These attributes are optimal indicators to determine the performance of a player at a particular playing position.
 
-Explorations Achieved using the data.
+
+**Explorations Achieved using the data.
+
 
 **Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
 
@@ -24,7 +26,7 @@ Explorations Achieved using the data.
 
 **Made costimized dream team
 
-***queries***
+**Queries**
 
 #num. of rows-colums
 
