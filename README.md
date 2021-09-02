@@ -3,46 +3,46 @@
    The data was scrapped from the KOGGLE website using a python.Dataset that has been used for this analysis provides statistics of about 16000 players on over 70 different attributes. These attributes are optimal indicators to determine the performance of a player at a particular playing position.
 
 
-**Explorations Achieved using the data.
+Explorations Achieved using the data.
 
 
-**Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
+Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
 
-**Pie chart proportion of right-foot players vs left-foot players
+Pie chart proportion of right-foot players vs left-foot players
 
-**Histrogram of Player Age
+Histrogram of Player Age
 
-**Pie chart Describing the Percentage of Players in different Attacking positions
+Pie chart Describing the Percentage of Players in different Attacking positions
 
-**Pie chart Describing the Percentage of Players in different Mid-fielder positions
+Pie chart Describing the Percentage of Players in different Mid-fielder positions
 
-**Pie chart Describing the Percentage of Players in different Defender positions
+Pie chart Describing the Percentage of Players in different Defender positions
 
-**Chart displaying nationwise players count
+Chart displaying nationwise players count
 
-**MESSI VS RONALDO player comparison on the basis of their skills
+MESSI VS RONALDO player comparison on the basis of their skills
 
-**Ploted chart of top 20 club & countries by overall player rating
+Ploted chart of top 20 club & countries by overall player rating
 
-**Made costimized dream team
+Made costimized dream team
 
-**Queries**
+Queries
 
-#num. of rows-colums
+Num. of rows-colums
 
-#displaying all columns
+Displaying all columns
 
-#Dropping some useless columns
+Dropping some useless columns
 
-#displaying columns for given positions
+Displaying columns for given positions
 
-#displaying player with min age by sorting in list
+Displaying player with min age by sorting in list
 
-#displaying player with top-5 high wage players
+Displaying player with top-5 high wage players
 
-#filling the NaN,missing values with the median of the respective column
+Filling the NaN,missing values with the median of the respective column
 
-#displaying players of club & country etc....
+Displaying players of club & country etc....
 
 
 
