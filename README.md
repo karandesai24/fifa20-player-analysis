@@ -4,19 +4,6 @@ The data was scrapped from the KOGGLE website using a python.Dataset that has be
 
 Explorations Achieved using the data.
 
-
-***queries***
-
-#num. of rows-colums
-#displaying all columns
-#Dropping some useless columns
-#displaying columns for given positions
-#displaying player with min age by sorting in list
-#displaying player with top-5 high wage players
-#filling the NaN,missing values with the median of the respective column
-#displaying players of club & country
-
-
 **Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
 
 **Pie chart proportion of right-foot players vs left-foot players
@@ -37,6 +24,23 @@ Explorations Achieved using the data.
 
 **Made costimized dream team
 
+***queries***
+
+#num. of rows-colums
+
+#displaying all columns
+
+#Dropping some useless columns
+
+#displaying columns for given positions
+
+#displaying player with min age by sorting in list
+
+#displaying player with top-5 high wage players
+
+#filling the NaN,missing values with the median of the respective column
+
+#displaying players of club & country etc....
 
 
 
