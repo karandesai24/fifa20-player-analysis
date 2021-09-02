@@ -2,6 +2,7 @@
 
    The data was scrapped from the KOGGLE website using a python.Dataset that has been used for this analysis provides statistics of about 16000 players on over 70 different attributes. These attributes are optimal indicators to determine the performance of a player at a particular playing position.
    
+𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐝 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚.
 
 𝐐𝐮𝐞𝐫𝐢𝐞𝐬
 
@@ -22,7 +23,7 @@
 • Displaying players of club & country etc....
 
 
-𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐀𝐜𝐡𝐢𝐞𝐯𝐞𝐝 𝐮𝐬𝐢𝐧𝐠 𝐭𝐡𝐞 𝐝𝐚𝐭𝐚.
+𝐄𝐱𝐩𝐥𝐨𝐫𝐚𝐭𝐨𝐫𝐲 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
 
 
 • Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
