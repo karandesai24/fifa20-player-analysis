@@ -1,6 +1,9 @@
+About
+
 The data was scrapped from the KOGGLE website using a python.Dataset that has been used for this analysis provides statistics of about 16000 players on over 70 different attributes. These attributes are optimal indicators to determine the performance of a player at a particular playing position.
 
 Explorations Achieved using the data.
+
 
 ***queries***
 
@@ -13,16 +16,27 @@ Explorations Achieved using the data.
 #filling the NaN,missing values with the median of the respective column
 #displaying players of club & country
 
+
 **Scatter Plot (colored by Age) year 2020 - Overall Rating vs Value in Euros
+
 **Pie chart proportion of right-foot players vs left-foot players
+
 **Histrogram of Player Age
+
 **Pie chart Describing the Percentage of Players in different Attacking positions
+
 **Pie chart Describing the Percentage of Players in different Mid-fielder positions
+
 **Pie chart Describing the Percentage of Players in different Defender positions
-**chart displaying nationwise players count
+
+**Chart displaying nationwise players count
+
 **MESSI VS RONALDO player comparison on the basis of their skills
-**ploting chart of top 20 club & countries by overall player rating
-**made costimized dream team
+
+**Ploted chart of top 20 club & countries by overall player rating
+
+**Made costimized dream team
+
 
 
 
